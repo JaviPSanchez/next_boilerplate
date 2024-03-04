@@ -7,7 +7,7 @@ module.exports = {
 
   deploy: {
     production: {
-      key: 'Hostinger.pub',
+      key: 'Hostinger',
       user: 'root',
       host: '89.117.37.12',
       ref: 'origin/main',
